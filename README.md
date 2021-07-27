@@ -13,7 +13,7 @@ Fake news can rapidly spread through internet users. Approaches proposed in the 
 We use the FKTC (FakeNews text collections) library https://github.com/GoloMarcos/FKTC that has information about the datasets
 
 # MVAE-FakeNews
-![Proposal](/images/MVAE-FK.png)
+![Proposal](/images/MVAE-FK.pdf)
 
 
 
