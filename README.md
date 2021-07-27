@@ -21,7 +21,7 @@ We use the FKTC (FakeNews text collections) library https://github.com/GoloMarco
 # Critical Diference
 ![Results](/images/nemeny.png)
 
-# TSNE
+# TSNE on FCN
 ![TSNE](/images/FCN-TSNE.png)
 
 
