@@ -1,2 +1,2 @@
-# MVAE_FakeNews_OCL
-Multimodal Variational Autoencoder to Represent texts on One Class Fake News Classification
+# Learning Textual Representations from Multiple Modalities to Detect Fake News Through One-Class Learning
+
