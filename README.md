@@ -15,5 +15,11 @@ We use the FKTC (FakeNews text collections) library https://github.com/GoloMarco
 # MVAE-FakeNews
 ![Proposal](/images/MVAE-FK.png)
 
+# TSNE
+![TSNE](/images/FCN-TSNE.png)
+
+
+
+
 
 
