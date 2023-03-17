@@ -12,7 +12,7 @@ If you use any part of this code in your research, please cite it using the foll
 ```latex
 @inproceedings{ref:Golo2021,
   title={Learning textual representations from multiple modalities to detect fake news through one-class learning},
-  author={G{\^o}lo, Marcos and Caravanti, Mariana and Rossi, Rafael and Rezende, Solange and Nogueira, Bruno and Marcacini, Ricardo},
+  author={Gôlo, Marcos and Caravanti, Mariana and Rossi, Rafael and Rezende, Solange and Nogueira, Bruno and Marcacini, Ricardo},
   booktitle={Proceedings of the Brazilian Symposium on Multimedia and the Web},
   pages={197--204},
   year={2021}
